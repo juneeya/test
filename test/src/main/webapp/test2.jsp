@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>test.jsp</h1>
-commit2
-연습내용수정22
+<h1>test2.jsp</h1>
 </body>
 </html>
