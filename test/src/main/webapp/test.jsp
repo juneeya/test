@@ -9,5 +9,6 @@
 <body>
 <h1>test.jsp</h1>
 commit2
+연습내용수정
 </body>
 </html>
